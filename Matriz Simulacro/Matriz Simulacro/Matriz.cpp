@@ -29,7 +29,6 @@ int main()
  * @param Matriz, i, j.
  * @return Genera la matriz acomodando los numeros de izquierda a derecha.
 */
-    cout << "-------------------" << endl;
     cout << "Matriz:" << endl;
     for (int i = 0; i < 3; i++)
     {
@@ -44,7 +43,6 @@ int main()
  * @param Matriz, i, j.
  * @return Genera la matriz acomodando los numeros de ariba a abajos.
 */
-    cout << "-------------------" << endl;
     cout << "Matriz Transpuesta:" << endl;
     for (int i = 0; i < 3; i++)
     {
